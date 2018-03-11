@@ -1,0 +1,11 @@
+package com.ctt.dao;
+
+import java.io.Serializable;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.ctt.domain.Department;
+
+public interface DepartmentDAO extends CrudRepository<Department, Serializable>{
+
+}
