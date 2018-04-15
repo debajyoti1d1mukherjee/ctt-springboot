@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBpootConsumer"/>
+<aop-project name="bootjpa"/>
+<aop-project name="SpringBpootProducer"/>
+<aop-project name="bootstandalonedemo"/>
+<aop-project name="bootwebdemoadvanced"/>
+<aop-project name="bootwebdemo"/>
+</aop-reference-model>

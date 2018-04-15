@@ -1,7 +1,0 @@
-package com.ctt;
-
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
-
-public class DemoApplication extends SpringBootServletInitializer {
-
-}

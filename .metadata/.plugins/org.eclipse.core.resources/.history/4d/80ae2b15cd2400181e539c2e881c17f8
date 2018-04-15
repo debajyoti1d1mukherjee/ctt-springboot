@@ -1,5 +1,0 @@
-package com.ctt.dao;
-
-public interface DepartmentDAO {
-
-}
