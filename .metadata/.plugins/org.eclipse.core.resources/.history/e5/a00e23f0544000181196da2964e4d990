@@ -1,0 +1,10 @@
+spring:
+  profiles: development
+address: Kolkata
+
+----
+
+ spring:
+  profiles: development
+address: London
+  

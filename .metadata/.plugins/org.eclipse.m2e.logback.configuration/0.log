@@ -2908,3 +2908,61 @@
 2018-04-15 06:57:17,387 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-04-15 06:57:17,393 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-15 06:57:17,393 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootConsumer\src\test\resources
+2018-04-15 07:56:09,949 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ctt.boot:demo:0.0.1-SNAPSHOT @ C:\software\microservicestraining\SpringBpootMultipleProfiles\pom.xml.
+2018-04-15 07:56:10,588 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBpootMultipleProfiles/src/main/java
+2018-04-15 07:56:10,589 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBpootMultipleProfiles/src/main/resources
+2018-04-15 07:56:10,595 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBpootMultipleProfiles/src/main/resources
+2018-04-15 07:56:10,604 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBpootMultipleProfiles/src/test/java
+2018-04-15 07:56:10,924 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-15 07:56:10,930 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 07:56:11,200 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ctt.boot:demo:0.0.1-SNAPSHOT @ C:\software\microservicestraining\SpringBpootMultipleProfiles\pom.xml.
+2018-04-15 07:56:11,878 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBpootMultipleProfiles/src/main/java
+2018-04-15 07:56:11,878 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBpootMultipleProfiles/src/main/resources
+2018-04-15 07:56:11,880 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBpootMultipleProfiles/src/main/resources
+2018-04-15 07:56:11,884 [Worker-68] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBpootMultipleProfiles/src/test/java
+2018-04-15 07:56:12,067 [Worker-68] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 07:57:20,594 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ctt.boot:demo:0.0.1-SNAPSHOT @ C:\software\microservicestraining\SpringBpootMultipleProfiles\pom.xml.
+2018-04-15 07:57:22,305 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 07:57:22,306 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 07:57:22,307 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 07:57:22,310 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 07:57:22,310 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 08:11:44,982 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:11:44,983 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-15 08:11:44,987 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 08:11:44,989 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:11:44,989 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 08:51:47,406 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:51:47,410 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-15 08:51:47,415 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 08:51:47,417 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:51:47,418 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 08:58:23,543 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:58:23,543 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-15 08:58:23,548 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 08:58:23,550 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 08:58:23,550 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 09:16:51,037 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:16:51,037 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-15 09:16:51,041 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 09:16:51,044 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:16:51,044 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 09:17:02,365 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:17:02,366 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-15 09:17:02,369 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 09:17:02,370 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:17:02,371 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 09:19:46,876 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\software\microservicestraining\SpringBpootMultipleProfiles
+2018-04-15 09:19:46,876 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-04-15 09:24:52,230 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\software\microservicestraining\SpringBpootMultipleProfiles
+2018-04-15 09:24:52,230 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2018-04-15 09:25:03,434 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\software\microservicestraining\SpringBpootMultipleProfiles
+2018-04-15 09:25:03,434 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2018-04-15 09:27:03,025 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:27:03,026 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-15 09:27:03,029 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 09:27:03,032 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:27:03,032 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\SpringBpootMultipleProfiles\src\test\resources
+2018-04-15 09:27:19,476 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 09:27:19,476 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-04-15 09:27:19,480 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

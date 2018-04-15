@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.ctt&apos; to &apos;SpringBpootMultipleProfiles/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;bootwebdemo&apos;&#x0D;&#x0A;- Destination element: &apos;SpringBpootMultipleProfiles/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;bootwebdemo/src/main/java/com.ctt&apos;" description="Copy package" destination="=SpringBpootMultipleProfiles/src\/main\/java" element1="/src\/main\/java&lt;com.ctt" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1523759464988" version="1.0"/>
+</session>

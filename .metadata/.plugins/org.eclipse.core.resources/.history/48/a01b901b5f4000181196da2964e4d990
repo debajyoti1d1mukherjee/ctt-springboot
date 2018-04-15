@@ -1,0 +1,11 @@
+spring:
+  profiles: development
+address: Kolkata
+
+spring:
+  profiles: stagging
+address: London
+
+
+
+  
