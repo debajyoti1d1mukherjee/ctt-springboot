@@ -12,4 +12,23 @@
 		<list key="issueManagementUrl">
 		</list>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\software\microservicestraining\ctt-springboot\SpringBpootMultipleProfiles"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\SpringBpootConsumer"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\SpringBpootProducer"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\bootjpa"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\bootwebdemoadvanced"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\bootstandalonedemo"/>
+			<item value="C:\software\microservicestraining\ctt-springboot\bootwebdemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>

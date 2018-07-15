@@ -1,0 +1,8 @@
+server.port=9082
+spring.application.name: createcase
+spring.cloud.config.failFast=true
+#eureka.client.service-url.defaultZone= ${EUREKA_URL}
+eureka.client.service-url.defaultZone= http://localhost:8761/eureka/
+eureka.client.registryFetchIntervalSeconds= 5
+eureka.instance.metadataMap.instanceId= ${spring.application.name}:${random.int}
+eureka.instance.preferIpAddress= true
