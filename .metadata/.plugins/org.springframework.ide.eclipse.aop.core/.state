@@ -4,6 +4,9 @@
 <aop-project name="bootjpa"/>
 <aop-project name="SpringBpootProducer"/>
 <aop-project name="bootstandalonedemo"/>
+<aop-project name="CreateCase"/>
+<aop-project name="ServiceRegistry"/>
 <aop-project name="bootwebdemoadvanced"/>
+<aop-project name="SpringBpootMultipleProfiles"/>
 <aop-project name="bootwebdemo"/>
 </aop-reference-model>
