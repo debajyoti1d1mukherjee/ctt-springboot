@@ -4246,3 +4246,183 @@
 2018-10-27 13:32:13,810 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-10-27 13:32:13,810 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-10-27 13:32:13,825 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 13:32:13,825 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 15:44:11,797 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 15:44:11,800 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 15:44:11,802 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 15:44:11,808 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 15:44:11,809 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:00:44,771 [Worker-170] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: deb.microservice:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:00:46,317 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:00:46,333 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:00:46,333 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:00:46,333 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:00:46,333 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:05:00,587 [Worker-170] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-27 16:05:01,166 [Worker-170] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:05:02,471 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/main/java
+2018-10-27 16:05:02,471 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:05:02,471 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:05:02,486 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/test/java
+2018-10-27 16:05:03,103 [Worker-170] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-27 16:05:28,179 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:05:28,179 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:05:28,210 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:05:28,210 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:05:28,210 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:07:30,155 [Worker-173] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:feignclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:07:31,030 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:07:31,030 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-27 16:07:31,030 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-27 16:07:31,030 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:07:31,030 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:09:05,012 [Worker-172] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:09:09,225 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:09:09,225 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:09:09,225 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:09:09,225 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:09:09,225 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:11:10,363 [Worker-169] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-27 16:11:10,706 [Worker-169] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:11:11,127 [Worker-169] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/main/java
+2018-10-27 16:11:11,127 [Worker-169] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:11:11,127 [Worker-169] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:11:11,127 [Worker-169] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/test/java
+2018-10-27 16:11:11,611 [Worker-169] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-10-27 16:11:18,175 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:11:18,175 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:11:18,191 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:11:18,191 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:11:18,191 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:13:30,391 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:13:30,391 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:13:30,391 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:13:30,391 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:13:30,391 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:17:28,446 [Worker-173] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:17:29,695 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:17:29,711 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:17:29,711 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:17:29,726 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:17:29,726 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:18:05,961 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:18:05,961 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:18:05,961 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:18:05,961 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:18:05,961 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:18:13,628 [Worker-173] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-27 16:18:14,304 [Worker-173] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:18:14,983 [Worker-173] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/main/java
+2018-10-27 16:18:14,983 [Worker-173] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:18:14,983 [Worker-173] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configclient/src/main/resources
+2018-10-27 16:18:14,983 [Worker-173] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configclient/src/test/java
+2018-10-27 16:18:15,451 [Worker-173] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-10-27 16:18:40,311 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:18:40,311 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:18:40,342 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:18:40,342 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:18:40,342 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:19:51,673 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:19:54,111 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:19:54,111 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:19:54,126 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:19:54,126 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:19:54,142 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:21:24,554 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:21:27,852 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:21:27,852 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:21:27,852 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:21:27,868 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:21:27,868 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:21:47,170 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:21:47,170 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:21:47,170 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:21:47,185 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:21:47,185 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:22:48,851 [Worker-179] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:22:51,347 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:22:51,347 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:22:51,363 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:22:51,363 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:22:51,363 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:23:24,166 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:23:24,166 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:23:24,166 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:23:24,166 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:23:24,166 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:24:46,317 [Worker-136] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:24:46,943 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:24:46,943 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-27 16:24:46,943 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-27 16:24:46,943 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:24:46,943 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:25:50,202 [Worker-173] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:25:52,431 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:25:52,431 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:25:52,446 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:25:52,462 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:25:52,462 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:27:29,441 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:27:31,133 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:27:31,133 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:27:31,133 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:27:31,149 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:27:31,149 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:29:00,227 [Worker-172] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.debu.parent:configclient:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:29:02,507 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:29:02,507 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:29:02,522 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:29:02,522 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:29:02,522 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:32:20,622 [Worker-173] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:configuration-service:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:32:21,310 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:32:21,326 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:32:21,326 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:32:21,326 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:32:21,326 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:37:53,304 [Worker-136] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:configuration-service:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:37:54,164 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:37:54,164 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:37:54,179 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:37:54,179 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:37:54,179 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:40:35,443 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:40:35,443 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:40:35,443 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:40:35,459 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:40:35,459 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:43:06,666 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:43:06,666 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:43:06,666 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:43:06,682 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:43:06,682 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:43:33,477 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:43:33,477 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:43:33,477 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:43:33,477 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:43:33,477 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:47:19,203 [Worker-192] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:configuration-client:0.0.1-SNAPSHOT @ C:\software\microservicestraining\ctt-springboot\configclient\pom.xml.
+2018-10-27 16:47:23,116 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:47:23,116 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:47:23,131 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:47:23,147 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:47:23,147 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:50:21,848 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:50:21,848 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:50:21,848 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:50:21,848 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:50:21,848 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:50:50,318 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:50:50,334 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:50:50,334 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:50:50,334 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:50:50,334 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:53:07,879 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:53:07,880 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:53:07,881 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:53:07,885 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:53:07,885 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\software\microservicestraining\ctt-springboot\configclient\src\test\resources
+2018-10-27 16:54:53,687 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-27 16:54:53,687 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:54:53,687 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-27 16:54:53,687 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
